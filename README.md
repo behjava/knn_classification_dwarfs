@@ -1,3 +1,3 @@
-# Using k-nearest neighbors (KNN) method for developing an algorithm to classify dwarf and non-dwarf galaxies based on only the basic observed properties, i.e. the brightness in two bands. 
+# Using k-nearest neighbors (KNN) method for developing an algorithm to perform a classification of dwarf and non-dwarf galaxies in a 6 dimensional feature space.
 
 # See the .ipynb file.
